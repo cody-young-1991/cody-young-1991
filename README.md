@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Cody%20Young&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full-Stack%20%26%20AI%2FML%20Engineer%20%E2%80%A2%20Solution%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="./assets/header.svg" width="100%" alt="Cody Young" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=640&lines=10%2B+years+building+cloud-native+platforms;AI%2FML+systems+for+fintech+%26+healthcare;React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+NestJS;LLMs+%E2%80%A2+LangChain+%E2%80%A2+TensorFlow+%E2%80%A2+PyTorch;AWS+%E2%80%A2+Azure+%E2%80%A2+GCP+%E2%80%A2+Kubernetes" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/cody-young-25b15bbb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:codyyoung199104@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=cody-young-1991&style=for-the-badge&color=2c5364&label=Profile+Views" />
 </p>
 
 </div>
@@ -155,11 +154,7 @@ Delivered **50+ enterprise AI & automation integrations** across fintech and hea
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=cody-young-1991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cody-young-1991&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img src="https://streak-stats.demolab.com?user=cody-young-1991&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cody-young-1991&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img height="170" src="https://streak-stats.demolab.com?user=cody-young-1991&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -171,6 +166,6 @@ Delivered **50+ enterprise AI & automation integrations** across fintech and hea
 
 Open to collaborations on **AI/ML platforms, cloud architecture, and full-stack products**.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+<img src="./assets/footer.svg" width="100%" />
 
 </div>
